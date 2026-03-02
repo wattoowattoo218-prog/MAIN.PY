@@ -176,4 +176,4 @@ async def on_ready():
     await bot.tree.sync()
     print(f"🔥 Boosting Bot Online: {bot.user}")
 
-bot.run(TOKEN)
+bot.run("MTQ3MzU5MjU3NDMyODU3NDAxMw.GyGp9y.CALvbJapoz2dExixspzAo97GkfG-TDD6zw1fz8")
